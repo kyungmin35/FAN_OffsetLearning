@@ -21,7 +21,7 @@ We propose a hybrid form regression network that leverage both advantages of hea
 
 ## Environment
 1. Python 3.7
-2. CUDA 10.2, Cudnn 7.6.5 Pytorch 1.4, Torchvision 0.5.0
+2. CUDA 10.2, Cudnn 7.6.5, Pytorch 1.4, Torchvision 0.5.0
 
 
 ## Datasets
