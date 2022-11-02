@@ -15,7 +15,7 @@ We propose a hybrid form regression network that leverage both advantages of hea
 ### 300W
 
 | NME | *common*| *challenge* | *full* |
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
 |HRNetV2-W18 | 2.91 | 5.11 | 3.34 |
 | Ours | 2.92 | 5.04 | 3.33 |
 
