@@ -30,3 +30,7 @@ We propose a hybrid form regression network that leverage both advantages of hea
 - WFLW
 - COFW
 
+## Acknowledgement
+Part of our code is borrowed from the following repositories.
+- [High-resolution networks](https://github.com/HRNet/HRNet-Facial-Landmark-Detection)
+- [Semantic Graph Convolutional Networks for 3D Human Pose Regression] (https://github.com/garyzhao/SemGCN)
